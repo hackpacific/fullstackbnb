@@ -12,6 +12,7 @@ gem 'rails', '~> 5.1.6'
 gem 'sqlite3'
 gem 'mongoid'
 gem 'rspec-rails'
+gem 'factory_bot_rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
